@@ -1,0 +1,12 @@
+[package]
+name = "ironWeb"
+version = "0.1.0"
+authors = ["bueasy <bueasy@gmail.com>"]
+
+[dependencies]
+[dependencies.iron]
+version = "*"
+[dependencies.staticfile]
+version = "*"
+[dependencies.mount]
+version = "*"
