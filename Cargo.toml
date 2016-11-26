@@ -10,3 +10,5 @@ version = "*"
 version = "*"
 [dependencies.mount]
 version = "*"
+[dependencies.router]
+version = "*"
